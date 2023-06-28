@@ -6,7 +6,9 @@ aplicar.
 El centro de vacunación cuenta con distintos tipos de vacunas:
 
 ● Covid-19 1er. dosis , Covid-19 2da dosis
+
 ● Hepatitis A, Hepatitis B, Hepatitis C
+
 ● Rubeola
 
 Las personas que asisten al centro de vacunación pueden aplicarse las vacunas bajo ciertas
